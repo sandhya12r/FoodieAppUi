@@ -1,0 +1,26 @@
+{
+  "name": "restaurant",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "formik": "^2.2.9",
+    "iron-session": "^6.3.1",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^7.1.0",
+    "next": "^13.2.4",
+    "next-auth": "^4.22.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.10.0"
+  }
+}
