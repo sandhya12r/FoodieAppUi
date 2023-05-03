@@ -157,7 +157,7 @@ Click Login with Google. On successful login you will be redirected to the home 
 - Responsive Webpages
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@Sandhya](https://github.com/sandhya12r) Sandhya Rani
+- [@Sandhya](https://github.com/sandhya12r) -Full Stack Developer
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
