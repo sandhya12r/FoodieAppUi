@@ -104,7 +104,7 @@ Click Login with Google. On successful login you will be redirected to the home 
 
 ### Google Login *User* (GIF)
 <!-- ![LoginProcess](public\GoogleLoginProcess.gif) -->
-<img src="public\GoogleLoginProcess.gif" alt= “” width="1000">
+<img src="public\GoogleLogin.png" alt= “” width="1000">
 
 ### ADD To Cart *User Feature* (GIF)
 <!-- ![AddToCart](public\AddToCartProcess.gif) -->
