@@ -96,22 +96,18 @@ Click Login with Google. On successful login you will be redirected to the home 
 ## 🎈 Project View <a name="projectView"></a>
 ### Login Page
 <!-- ![LoginPage](public\Login_Page.png) -->
-<img src="public\Login_Page.png" alt= “” width="900">
-
-### Register Page
-<!-- ![RegisterPage](public\RegisterPage.png) -->
-<img src="public\RegisterPage.png" alt= “” width="1000">
+<img src="public\Login_Page.png" alt= “” width="1000">
 
 ### Google Login *User*
 <!-- ![LoginProcess](public\GoogleLoginProcess.gif) -->
-<img src="public\GoogleLogin.png" alt= “” width="900">
+<img src="public\GoogleLogin.png" alt= “” width="1000">
 
 ### ADD To Cart *User Feature*
 <!-- ![AddToCart](public\AddToCartProcess.gif) -->
-<img src="public\AddCart.png" alt= “” width="500">
-<img src="public\RemoveCart.png" alt= “” width="500">
+<img src="public\AddCart.png" alt= “” width="1000">
+<img src="public\RemoveCart.png" alt= “” width="1000">
 
-### Create Dish *User Feature*
+### Add Dishes *Admin Feature*
 <!-- ![CreateDish](public\CreateDish.png) -->
 <img src="public\CreateDish.png" alt= “” width="1000">
 
