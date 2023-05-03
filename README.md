@@ -109,14 +109,11 @@ Click Login with Google. On successful login you will be redirected to the home 
 
 ### Add Dishes *Admin Feature*
 <!-- ![CreateDish](public\CreateDish.png) -->
-<img src="public\CreateDish.png" alt= “” width="1000">
+<img src="public\AddDish.png" alt= “” width="1000">
 
 ### Edit Dish *Admin Feature* (GIF)
 <!-- ![EditDish](public\EditCartProcess.gif) -->
-<img src="public\EditCartProcess.gif" alt= “” width="1000">
-
-### Real Time Updation of No of items in cart
-![UpdateNoInCart](public\RealTimeUpdation.gif)
+<img src="public\EditDish.png" alt= “” width="1000">
 
 
 ## 🚀 Features <a name = "features"></a>
