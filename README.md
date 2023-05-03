@@ -102,13 +102,14 @@ Click Login with Google. On successful login you will be redirected to the home 
 <!-- ![RegisterPage](public\RegisterPage.png) -->
 <img src="public\RegisterPage.png" alt= “” width="1000">
 
-### Google Login *User* (GIF)
+### Google Login *User*
 <!-- ![LoginProcess](public\GoogleLoginProcess.gif) -->
-<img src="public\GoogleLogin.png" alt= “” width="1000">
+<img src="public\GoogleLogin.png" alt= “” width="900">
 
-### ADD To Cart *User Feature* (GIF)
+### ADD To Cart *User Feature*
 <!-- ![AddToCart](public\AddToCartProcess.gif) -->
-<img src="public\AddToCartProcess.gif" alt= “” width="1000">
+<img src="public\AddCart.png" alt= “” width="500">
+<img src="public\RemoveCart.png" alt= “” width="500">
 
 ### Create Dish *User Feature*
 <!-- ![CreateDish](public\CreateDish.png) -->
