@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=100px height=100px src="public\logo.png.png" alt="Project logo"></a>
+ <img width=100px height=100px src="public\logo.png" alt="Project logo"></a>
 </p>
 
 
