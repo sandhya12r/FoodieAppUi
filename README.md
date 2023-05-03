@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">Appetite. - Order Food Online</h3>
+<h3 align="center">Foodie - Online Delivery App</h3>
 
 ---
 <div align="center">
@@ -50,8 +50,8 @@ After the app is created copy your uinque CLIENT_ID AND CLIENT_SECRET into .env.
 
 ### Installing
 You need to clone two repositories for this web application to work.
-- Appetite_FrontEnd: https://github.com/ShubhamBarwad/Appetite_FrontEnd.git
-- Appetite-Services: https://github.com/ShubhamBarwad/Appetite-Services.git
+- Appetite_FrontEnd: https://github.com/sandhya12r/FoodieAppUi
+- Appetite-Services: https://github.com/sandhya12r/FoodieApp
 
 FrontEnd Installation:
 
@@ -157,11 +157,11 @@ Click Login with Google. On successful login you will be redirected to the home 
 - Responsive Webpages
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@shubham](https://github.com/ShubhamBarwad) Shubham Barwad
+- [@Sandhya](https://github.com/sandhya12r) Sandhya Rani
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Instruction By - @juniedenysolomon
+- Instructed By - @juniedenysolomon
 - Inspiration - @bhupendraparihar
 - References - @juniedenysolomon
 - Skill-Lynk - [@Skill-Lync](https://skill-lync.com/)
