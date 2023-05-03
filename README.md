@@ -96,7 +96,7 @@ Click Login with Google. On successful login you will be redirected to the home 
 ## 🎈 Project View <a name="projectView"></a>
 ### Login Page
 <!-- ![LoginPage](public\Login_Page.png) -->
-<img src="public\Login_Page.png" alt= “” width="1000">
+<img src="public\Login_Page.png" alt= “” width="900">
 
 ### Register Page
 <!-- ![RegisterPage](public\RegisterPage.png) -->
