@@ -55,7 +55,7 @@ You need to clone two repositories for this web application to work.
 
 FrontEnd Installation:
 
-After successfully cloning the two repositories. Open the Appetite_FrontEnd with VS Code. Open the terminal in the VS Code using 'CTRL'+ ` . In the terminal install the dependencies using the following commands
+After successfully cloning the two repositories. Open the Foodies_FrontEnd with VS Code. Open the terminal in the VS Code using 'CTRL'+ ` . In the terminal install the dependencies using the following commands
 
 ```
 npm install next-auth
