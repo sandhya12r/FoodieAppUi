@@ -50,8 +50,8 @@ After the app is created copy your uinque CLIENT_ID AND CLIENT_SECRET into .env.
 
 ### Installing
 You need to clone two repositories for this web application to work.
-- Appetite_FrontEnd: https://github.com/sandhya12r/FoodieAppUi
-- Appetite-Services: https://github.com/sandhya12r/FoodieApp
+- Foodies_FrontEnd: https://github.com/sandhya12r/FoodieAppUi
+- Foodies-BackEnd: https://github.com/sandhya12r/FoodieApp
 
 FrontEnd Installation:
 
