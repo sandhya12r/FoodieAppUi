@@ -31,7 +31,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-A website for a fictitious restauran named 'Appetite', which is responsive on all screen sizes as well as has different set of functionalities depending upon the type of user you are. Admins can add and edit dishes, while a user can add the dishes to the cart, and place the order. With Next-Auth, we have also achived google integration for setting up login for the user using their Google Accounts.
+A website for a fictitious restaurant named 'Foodies', which is responsive on all screen sizes as well as has different set of functionalities depending upon the type of user you are. Admins can add and edit dishes, while a user can add the dishes to the cart, and place the order. With Next-Auth, we have also achived google integration for setting up login for the user using their Google Accounts.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
